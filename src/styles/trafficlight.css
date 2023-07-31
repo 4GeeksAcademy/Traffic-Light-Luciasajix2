@@ -1,0 +1,58 @@
+.red {
+    background-color: red;
+    width: 60px;
+    padding :10px;  
+    margin: 5px;
+    border-radius: 35px;
+    height: 60px;
+}
+.yellow{
+    background-color: yellow;
+    width: 60px;
+    padding :10px;  
+    margin: 5px;
+    border-radius: 35px;
+    height: 60px;
+
+}
+.green{
+    background-color: green;
+    width: 60px;
+    padding :10px;  
+    margin: 5px;
+    border-radius: 35px;
+    height: 60px;
+
+}
+.on {
+    box-shadow: 0 0 20px yellow;
+    
+}
+.fila {
+    display: flex;
+    justify-content: center;
+
+}
+.columna {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+
+}
+.semaforo {
+    background-color: black;
+    margin-left: 525px;
+    margin-right: 525px;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+.palo {
+    margin-left: 580px;
+    margin-right: 580px;
+   height: 70px;
+   background-color: black;
+    
+}
